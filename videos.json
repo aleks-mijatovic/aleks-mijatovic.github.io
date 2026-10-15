@@ -1,0 +1,337 @@
+[
+  {
+    "title": "Hypocoercivity of Tempered Bouncy Particle Sampler for heavy-tailed targets",
+    "url": "https://www.youtube.com/watch?v=HhlTlsyhhzY",
+    "slides": [
+      {
+        "title": "TBPS_Presentation_Part_I.pdf",
+        "url": "https://drive.google.com/file/d/1tF8R78m4ZAV---tN_dFGX-UoeHAdioXc/view"
+      }
+    ]
+  },
+  {
+    "title": "Part II: Hypocoercivity of TBPS for heavy-tailed targets -- Ideas and Proofs",
+    "url": "https://www.youtube.com/watch?v=tX93nqGz1WU",
+    "slides": [
+      {
+        "title": "TBPS_Presentation_Template_Part_2.pdf",
+        "url": "https://drive.google.com/file/d/1nEWc875VxwRoQhvcloJajTiyacUw0FZk/view"
+      }
+    ]
+  },
+  {
+    "title": "Diffeomorphic Contraction Sampler: fast mixing for heavy-tailed distributions",
+    "url": "https://www.youtube.com/watch?v=cOlmRLxeQM0",
+    "slides": [
+      {
+        "title": "DCS_presentation.pdf",
+        "url": "https://drive.google.com/file/d/1iCLAwKyRIdiXG4yIWitgiek74eEObi4B/view"
+      }
+    ]
+  },
+  {
+    "title": "Limit theorems for stochastic gradient descent with infinite variance",
+    "url": "https://www.youtube.com/watch?v=-MrVFJbA88w",
+    "slides": [
+      {
+        "title": "SGD_infinite_variance.pdf",
+        "url": "https://drive.google.com/file/d/1H_b-YzE-2JyhZF6MY5Pz6Hmchu7wp9Dv/view"
+      }
+    ]
+  },
+  {
+    "title": "CLT for ergodic averages of Markov chains I: theory and ULA-type algorithms for heavy-tailed targets",
+    "url": "https://www.youtube.com/watch?v=m2y7U4cEqy4",
+    "slides": [
+      {
+        "title": "MCMC_Heavy_Tails_Part_I.pdf",
+        "url": "https://drive.google.com/file/d/1pBb7ZMyRYA0-ZeOmkcAIOCjS47Kd53yi/view"
+      }
+    ]
+  },
+  {
+    "title": "CLT for ergodic averages of Markov chains II: unbiased MCMC algorithms for heavy-tailed targets",
+    "url": "https://www.youtube.com/watch?v=w8I_oOweuko",
+    "slides": [
+      {
+        "title": "MCMC_Heavy_Tails_Part_II.pdf",
+        "url": "https://drive.google.com/file/d/112q3ihdgPQw7avQ7MygUWF_G6bqWbZUz/view"
+      }
+    ]
+  },
+  {
+    "title": "Stability of storage processes with general release rates",
+    "url": "https://www.youtube.com/watch?v=TnvkYk2GxnM",
+    "slides": [
+      {
+        "title": "Storage_Miha_presentation.pdf",
+        "url": "https://drive.google.com/file/d/1_7G5m-wrCg40k2zxNr7P4qXyiWu8cpmm/view"
+      }
+    ]
+  },
+  {
+    "title": "Multivariate CLT for Levy processes: convergence rates without moment assumptions",
+    "url": "https://www.youtube.com/watch?v=BL1aVeoGCY8",
+    "slides": [
+      {
+        "title": "CLT_Presenation_Web_Page.pdf",
+        "url": "https://drive.google.com/file/d/1_zZl3Bw1tK4mHQ65AFQ0JWXOyxyNzWi2/view"
+      }
+    ]
+  },
+  {
+    "title": "Critical branching processes with immigration: scaling limits of local extinction sets (Part 1)",
+    "url": "https://www.youtube.com/watch?v=M6cBiiJt_90",
+    "slides": [
+      {
+        "title": "Critical_BGWIs_Part_1.pdf",
+        "url": "https://drive.google.com/file/d/1whS3UPI-Y_yxM2gmIHmewaePVggENMZE/view"
+      }
+    ]
+  },
+  {
+    "title": "Critical branching processes with immigration: scaling limits of local extinction sets (Part 2)",
+    "url": "https://www.youtube.com/watch?v=PCuIkPBApoE",
+    "slides": [
+      {
+        "title": "Critical_GBWI_Part_2.pdf",
+        "url": "https://drive.google.com/file/d/1wuI7m7qZtyEj7gO8S9O3_Jh7Ee-T_s7f/view"
+      }
+    ]
+  },
+  {
+    "title": "Central limit theorem for superdiffusive reflected Brownian motion",
+    "url": "https://www.youtube.com/watch?v=SVcVtZafrVY",
+    "slides": [
+      {
+        "title": "main.pdf",
+        "url": "https://drive.google.com/file/d/1WATbCVHlYGZm77bFhyu81-o2t4mttneO/view"
+      }
+    ]
+  },
+  {
+    "title": "Asymptotically optimal Wasserstein couplings for the small-time stable domain of attraction",
+    "url": "https://www.youtube.com/watch?v=76eJD6a8Kko",
+    "slides": [
+      {
+        "title": "Wasserstein_Small_Time.pdf",
+        "url": "https://drive.google.com/file/d/1KM39MGvk0KiD-oCaTxMBtG_RnmU7Yv12/view"
+      }
+    ]
+  },
+  {
+    "title": "Non-asymptotic bounds for denoising diffusions: Ornstein-Uhlenbeck is hard to beat",
+    "url": "https://www.youtube.com/watch?v=hQvfpwI0UPk",
+    "slides": [
+      {
+        "title": "DenoisingDiffusionsPresentation_Results___YT_.pdf",
+        "url": "https://drive.google.com/file/d/1rz-TpuWEzMUqcpBqaUrtEXjxEJZoAIJC/view"
+      }
+    ]
+  },
+  {
+    "title": "Non-asymptotic bounds for denoising diffusions: Ornstein-Uhlenbeck is hard to beat",
+    "url": "https://www.youtube.com/watch?v=xjzVPOEkl44",
+    "slides": [
+      {
+        "title": "DenoisingDiffusionsPresentation_Proofs___YT_.pdf",
+        "url": "https://drive.google.com/file/d/10yB4rgsywi4RGXOMcNzIzlZnW4duBWGU/view"
+      }
+    ]
+  },
+  {
+    "title": "Subexponential lower bounds for f-ergodic Markov processes (Part I: Results)",
+    "url": "https://www.youtube.com/watch?v=FD37xTPrUCw",
+    "slides": [
+      {
+        "title": "LowerBoundsPresentationPart1.pdf",
+        "url": "https://drive.google.com/file/d/13cAnJk3u14NMJpgtJASTqLP3WDRRx8vQ/view"
+      }
+    ]
+  },
+  {
+    "title": "Subexponential lower bounds for f-ergodic Markov processes (Part II: Proofs)",
+    "url": "https://www.youtube.com/watch?v=r3eiRywC0js",
+    "slides": [
+      {
+        "title": "LowerBoundsPresentationPart2.pdf",
+        "url": "https://drive.google.com/file/d/1meHuP8HNYZLPXxcE4JalbSGpg8BUzi91/view"
+      }
+    ]
+  },
+  {
+    "title": "Anomalous diffusive behaviour for Bessel-driven stochastic kinetics",
+    "url": "https://www.youtube.com/watch?v=O20plic5Ko8",
+    "slides": [
+      {
+        "title": "Bessel_Kinetics.pdf",
+        "url": "https://drive.google.com/file/d/16JDACXSgf7D7u1DxE8b8rphieGVY-9N-/view"
+      }
+    ]
+  },
+  {
+    "title": "Fast exact simulation of the first passage event of a subordinator",
+    "url": "https://www.youtube.com/watch?v=yQJY-fDBS6Q",
+    "slides": [
+      {
+        "title": "First_passage_event_of_subordinator_slides.pdf",
+        "url": "https://drive.google.com/file/d/1NwoO5mzHiCIybIBv8XeWYdEWBhjSe9PZ/view"
+      }
+    ]
+  },
+  {
+    "title": "Fast exact simulation of the first passage event of a subordinator (Part II)",
+    "url": "https://www.youtube.com/watch?v=FKJJzjRqdp4",
+    "slides": [
+      {
+        "title": "First_passage_event_of_subordinator_slides_Part2.pdf",
+        "url": "https://drive.google.com/file/d/1Yu_G4zpmTk6H3_D1G84nppm3t3WRBDXK/view"
+      }
+    ]
+  },
+  {
+    "title": "Exact simulation of the first-passage event of a tempered stable subordinator",
+    "url": "https://www.youtube.com/watch?v=dO-cQeABHdM",
+    "slides": [
+      {
+        "title": "First_passage_slides_Part_1.pdf",
+        "url": "https://drive.google.com/file/d/1BdFDkylNRJduV2lG8T13PxDIM2fWoixc/view"
+      }
+    ]
+  },
+  {
+    "title": "Monte Carlo algorithm based on exact simulation of the first-passage event",
+    "url": "https://www.youtube.com/watch?v=e38c1LmrzfA",
+    "slides": [
+      {
+        "title": "First_passage_slides_Part_2.pdf",
+        "url": "https://drive.google.com/file/d/1qWyZ5yM-B1u3A7eQysAGCCI6K1FOcdc8/view"
+      }
+    ]
+  },
+  {
+    "title": "Brownian Motion with Asymptotically Normal Reflection: from Transience to Stability",
+    "url": "https://www.youtube.com/watch?v=oDDDWdbPx74",
+    "slides": [
+      {
+        "title": "DiffusionsWithAsymptoticallyNormalReflectionPresentation_Part_I.pdf",
+        "url": "https://drive.google.com/file/d/1dxqzva3z8oeEPEJ6LFCwk9P8JFjyIJy-/view"
+      }
+    ]
+  },
+  {
+    "title": "Brownian Motion with Asymptotically Normal Reflection: from Transience to Stability (Part II)",
+    "url": "https://www.youtube.com/watch?v=1QYNYEWeAdI",
+    "slides": [
+      {
+        "title": "DiffusionsWithAsymptoticallyNormalReflectionPresentation_Part_II.pdf",
+        "url": "https://drive.google.com/file/d/1nhAC0yo9pAKA51gJlQSa-xDjkBSUYrrC/view"
+      }
+    ]
+  },
+  {
+    "title": "Explosion and superdiffusivity of reflected Brownian motion",
+    "url": "https://www.youtube.com/watch?v=oboxbWqvqtk",
+    "slides": [
+      {
+        "title": "explosions.pdf",
+        "url": "https://drive.google.com/file/d/15TN6czHCu8SBa5pNFNlfAwFETubNNELV/view"
+      }
+    ]
+  },
+  {
+    "title": "Explosion and superdiffusivity of reflected Brownian motion (Part 2)",
+    "url": "https://www.youtube.com/watch?v=E1g0C22pQWU",
+    "slides": [
+      {
+        "title": "explosions_part2.pdf",
+        "url": "https://drive.google.com/file/d/1NFw9EZzHwsLL0k1kn-KMfwBPmc8vHi8f/view"
+      }
+    ]
+  },
+  {
+    "title": "Hölder continuity of the convex minorant of a Levy process",
+    "url": "https://www.youtube.com/watch?v=PKvSg2tKqfs",
+    "slides": [
+      {
+        "title": "Hoelder_continuity_slides.pdf",
+        "url": "https://drive.google.com/file/d/1mDSrGASRCnrV-_v-hJZC_Ae4t8ZL8zir/view"
+      }
+    ]
+  },
+  {
+    "title": "How smooth can a convex hull of a Levy path be?",
+    "url": "https://www.youtube.com/watch?v=9uCge3eMHQg",
+    "slides": [
+      {
+        "title": "LiltimedependentSubordinator_Presentation.pdf",
+        "url": "https://drive.google.com/file/d/134oOrv0V7GjoqZGZVVbrwKHk9rkdiw26/view"
+      }
+    ]
+  },
+  {
+    "title": "When is the convex hull of a Levy path smooth? Part 1",
+    "url": "https://www.youtube.com/watch?v=qPxBqaq2AsQ",
+    "slides": []
+  },
+  {
+    "title": "When is the convex hull of a Levy path smooth? Part 2",
+    "url": "https://www.youtube.com/watch?v=Z-LtWuh6Ulg",
+    "slides": [
+      {
+        "title": "SmoothnessOfCMPresentation - split.pdf",
+        "url": "https://drive.google.com/file/d/1b6HLA3FAxBqCWfy6WwM54bJn9p2ElqHz/view"
+      }
+    ]
+  },
+  {
+    "title": "Convex minorant and fluctuation theory of Levy processes",
+    "url": "https://www.youtube.com/watch?v=hEg4YmxOgXA",
+    "slides": [
+      {
+        "title": "Fluctuation_theory_for_Levy_processes___presentation (8).pdf",
+        "url": "https://drive.google.com/file/d/1wUnb8XxOZOKga9CzekbURbMr7OPsrjA3/view"
+      }
+    ]
+  },
+  {
+    "title": "Asymptotic shape of the concave majorant of a Levy process",
+    "url": "https://www.youtube.com/watch?v=b0AOJm-dE3g",
+    "slides": [
+      {
+        "title": "AsympLengthPresentation.pdf",
+        "url": "https://drive.google.com/file/d/14UhYAlrQEz-c1QBhZMwLaGJO4QNcGRs4/view"
+      }
+    ]
+  },
+  {
+    "title": "TSB Alg Video",
+    "url": "https://www.youtube.com/watch?v=FJG6A3zk2lI",
+    "slides": [
+      {
+        "title": "SBT___presentation.pdf",
+        "url": "https://drive.google.com/file/d/1bCQmxKOegcWFLAWwM4noBmm5NYmKhnx7/view"
+      }
+    ]
+  },
+  {
+    "title": "SB-Algorithm for the simulation of the extrema of Levy processes",
+    "url": "https://www.youtube.com/watch?v=P3vHmJUCFbU",
+    "slides": [
+      {
+        "title": "LevySupSim_presentation.pdf",
+        "url": "https://drive.google.com/file/d/1tD_Rl86_otzcHILixij5N5vGlf-IAsZi/view"
+      }
+    ]
+  },
+  {
+    "title": "Stick-breaking Gaussian simulation: extrema of Levy processes",
+    "url": "https://www.youtube.com/watch?v=EL0v2QUb5tQ",
+    "slides": [
+      {
+        "title": "SBG_Talk.pdf",
+        "url": "https://drive.google.com/file/d/1hGhBJmqiF9J0h9yuO4d-zoI9McYs4nc-/view"
+      }
+    ]
+  }
+]

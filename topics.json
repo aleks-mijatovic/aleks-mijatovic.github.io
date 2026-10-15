@@ -1,0 +1,11 @@
+{
+  "sampling": "MCMC & sampling",
+  "levy": "Lévy processes",
+  "diffusions": "Diffusions & SDEs",
+  "limits": "Limit theorems & random walks",
+  "numerics": "Simulation & numerical methods",
+  "finance": "Mathematical finance",
+  "control": "Stochastic control & coupling",
+  "geometry": "Geometry & topology",
+  "ml": "Statistics & machine learning"
+}
