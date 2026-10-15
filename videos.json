@@ -5,9 +5,12 @@
     "slides": [
       {
         "title": "TBPS_Presentation_Part_I.pdf",
-        "url": "https://drive.google.com/file/d/1tF8R78m4ZAV---tN_dFGX-UoeHAdioXc/view"
+        "url": "slides-01-hypocoercivity-of-tempered-bouncy-particle-sampler-for-heavy-taile.pdf",
+        "source_url": "https://drive.google.com/file/d/1tF8R78m4ZAV---tN_dFGX-UoeHAdioXc/view"
       }
-    ]
+    ],
+    "paper_id": "paper-2",
+    "part_label": "Part 1: Results"
   },
   {
     "title": "Part II: Hypocoercivity of TBPS for heavy-tailed targets -- Ideas and Proofs",
@@ -15,9 +18,12 @@
     "slides": [
       {
         "title": "TBPS_Presentation_Template_Part_2.pdf",
-        "url": "https://drive.google.com/file/d/1nEWc875VxwRoQhvcloJajTiyacUw0FZk/view"
+        "url": "slides-02-part-ii-hypocoercivity-of-tbps-for-heavy-tailed-targets-ideas-and.pdf",
+        "source_url": "https://drive.google.com/file/d/1nEWc875VxwRoQhvcloJajTiyacUw0FZk/view"
       }
-    ]
+    ],
+    "paper_id": "paper-2",
+    "part_label": "Part 2: Proofs"
   },
   {
     "title": "Diffeomorphic Contraction Sampler: fast mixing for heavy-tailed distributions",
@@ -25,9 +31,12 @@
     "slides": [
       {
         "title": "DCS_presentation.pdf",
-        "url": "https://drive.google.com/file/d/1iCLAwKyRIdiXG4yIWitgiek74eEObi4B/view"
+        "url": "slides-03-diffeomorphic-contraction-sampler-fast-mixing-for-heavy-tailed-dis.pdf",
+        "source_url": "https://drive.google.com/file/d/1iCLAwKyRIdiXG4yIWitgiek74eEObi4B/view"
       }
-    ]
+    ],
+    "paper_id": "paper-4",
+    "part_label": "Video"
   },
   {
     "title": "Limit theorems for stochastic gradient descent with infinite variance",
@@ -35,9 +44,12 @@
     "slides": [
       {
         "title": "SGD_infinite_variance.pdf",
-        "url": "https://drive.google.com/file/d/1H_b-YzE-2JyhZF6MY5Pz6Hmchu7wp9Dv/view"
+        "url": "slides-04-limit-theorems-for-stochastic-gradient-descent-with-infinite-varia.pdf",
+        "source_url": "https://drive.google.com/file/d/1H_b-YzE-2JyhZF6MY5Pz6Hmchu7wp9Dv/view"
       }
-    ]
+    ],
+    "paper_id": "paper-11",
+    "part_label": "Video"
   },
   {
     "title": "CLT for ergodic averages of Markov chains I: theory and ULA-type algorithms for heavy-tailed targets",
@@ -45,9 +57,12 @@
     "slides": [
       {
         "title": "MCMC_Heavy_Tails_Part_I.pdf",
-        "url": "https://drive.google.com/file/d/1pBb7ZMyRYA0-ZeOmkcAIOCjS47Kd53yi/view"
+        "url": "slides-05-clt-for-ergodic-averages-of-markov-chains-i-theory-and-ula-type-al.pdf",
+        "source_url": "https://drive.google.com/file/d/1pBb7ZMyRYA0-ZeOmkcAIOCjS47Kd53yi/view"
       }
-    ]
+    ],
+    "paper_id": "paper-6",
+    "part_label": "Part 1"
   },
   {
     "title": "CLT for ergodic averages of Markov chains II: unbiased MCMC algorithms for heavy-tailed targets",
@@ -55,9 +70,12 @@
     "slides": [
       {
         "title": "MCMC_Heavy_Tails_Part_II.pdf",
-        "url": "https://drive.google.com/file/d/112q3ihdgPQw7avQ7MygUWF_G6bqWbZUz/view"
+        "url": "slides-06-clt-for-ergodic-averages-of-markov-chains-ii-unbiased-mcmc-algorit.pdf",
+        "source_url": "https://drive.google.com/file/d/112q3ihdgPQw7avQ7MygUWF_G6bqWbZUz/view"
       }
-    ]
+    ],
+    "paper_id": "paper-6",
+    "part_label": "Part 2"
   },
   {
     "title": "Stability of storage processes with general release rates",
@@ -65,9 +83,12 @@
     "slides": [
       {
         "title": "Storage_Miha_presentation.pdf",
-        "url": "https://drive.google.com/file/d/1_7G5m-wrCg40k2zxNr7P4qXyiWu8cpmm/view"
+        "url": "slides-07-stability-of-storage-processes-with-general-release-rates.pdf",
+        "source_url": "https://drive.google.com/file/d/1_7G5m-wrCg40k2zxNr7P4qXyiWu8cpmm/view"
       }
-    ]
+    ],
+    "paper_id": "paper-7",
+    "part_label": "Video"
   },
   {
     "title": "Multivariate CLT for Levy processes: convergence rates without moment assumptions",
@@ -75,9 +96,12 @@
     "slides": [
       {
         "title": "CLT_Presenation_Web_Page.pdf",
-        "url": "https://drive.google.com/file/d/1_zZl3Bw1tK4mHQ65AFQ0JWXOyxyNzWi2/view"
+        "url": "slides-08-multivariate-clt-for-levy-processes-convergence-rates-without-mome.pdf",
+        "source_url": "https://drive.google.com/file/d/1_zZl3Bw1tK4mHQ65AFQ0JWXOyxyNzWi2/view"
       }
-    ]
+    ],
+    "paper_id": "paper-10",
+    "part_label": "Video"
   },
   {
     "title": "Critical branching processes with immigration: scaling limits of local extinction sets (Part 1)",
@@ -85,9 +109,12 @@
     "slides": [
       {
         "title": "Critical_BGWIs_Part_1.pdf",
-        "url": "https://drive.google.com/file/d/1whS3UPI-Y_yxM2gmIHmewaePVggENMZE/view"
+        "url": "slides-09-critical-branching-processes-with-immigration-scaling-limits-of-lo.pdf",
+        "source_url": "https://drive.google.com/file/d/1whS3UPI-Y_yxM2gmIHmewaePVggENMZE/view"
       }
-    ]
+    ],
+    "paper_id": "paper-8",
+    "part_label": "Part 1: Results"
   },
   {
     "title": "Critical branching processes with immigration: scaling limits of local extinction sets (Part 2)",
@@ -95,9 +122,12 @@
     "slides": [
       {
         "title": "Critical_GBWI_Part_2.pdf",
-        "url": "https://drive.google.com/file/d/1wuI7m7qZtyEj7gO8S9O3_Jh7Ee-T_s7f/view"
+        "url": "slides-10-critical-branching-processes-with-immigration-scaling-limits-of-lo.pdf",
+        "source_url": "https://drive.google.com/file/d/1wuI7m7qZtyEj7gO8S9O3_Jh7Ee-T_s7f/view"
       }
-    ]
+    ],
+    "paper_id": "paper-8",
+    "part_label": "Part 2: Proofs"
   },
   {
     "title": "Central limit theorem for superdiffusive reflected Brownian motion",
@@ -105,9 +135,12 @@
     "slides": [
       {
         "title": "main.pdf",
-        "url": "https://drive.google.com/file/d/1WATbCVHlYGZm77bFhyu81-o2t4mttneO/view"
+        "url": "slides-11-central-limit-theorem-for-superdiffusive-reflected-brownian-motion.pdf",
+        "source_url": "https://drive.google.com/file/d/1WATbCVHlYGZm77bFhyu81-o2t4mttneO/view"
       }
-    ]
+    ],
+    "paper_id": "paper-13",
+    "part_label": "Video"
   },
   {
     "title": "Asymptotically optimal Wasserstein couplings for the small-time stable domain of attraction",
@@ -115,9 +148,12 @@
     "slides": [
       {
         "title": "Wasserstein_Small_Time.pdf",
-        "url": "https://drive.google.com/file/d/1KM39MGvk0KiD-oCaTxMBtG_RnmU7Yv12/view"
+        "url": "slides-12-asymptotically-optimal-wasserstein-couplings-for-the-small-time-st.pdf",
+        "source_url": "https://drive.google.com/file/d/1KM39MGvk0KiD-oCaTxMBtG_RnmU7Yv12/view"
       }
-    ]
+    ],
+    "paper_id": "paper-16",
+    "part_label": "Video"
   },
   {
     "title": "Non-asymptotic bounds for denoising diffusions: Ornstein-Uhlenbeck is hard to beat",
@@ -125,9 +161,12 @@
     "slides": [
       {
         "title": "DenoisingDiffusionsPresentation_Results___YT_.pdf",
-        "url": "https://drive.google.com/file/d/1rz-TpuWEzMUqcpBqaUrtEXjxEJZoAIJC/view"
+        "url": "slides-13-non-asymptotic-bounds-for-denoising-diffusions-ornstein-uhlenbeck.pdf",
+        "source_url": "https://drive.google.com/file/d/1rz-TpuWEzMUqcpBqaUrtEXjxEJZoAIJC/view"
       }
-    ]
+    ],
+    "paper_id": "paper-15",
+    "part_label": "Part 1"
   },
   {
     "title": "Non-asymptotic bounds for denoising diffusions: Ornstein-Uhlenbeck is hard to beat",
@@ -135,9 +174,12 @@
     "slides": [
       {
         "title": "DenoisingDiffusionsPresentation_Proofs___YT_.pdf",
-        "url": "https://drive.google.com/file/d/10yB4rgsywi4RGXOMcNzIzlZnW4duBWGU/view"
+        "url": "slides-14-non-asymptotic-bounds-for-denoising-diffusions-ornstein-uhlenbeck.pdf",
+        "source_url": "https://drive.google.com/file/d/10yB4rgsywi4RGXOMcNzIzlZnW4duBWGU/view"
       }
-    ]
+    ],
+    "paper_id": "paper-15",
+    "part_label": "Part 2"
   },
   {
     "title": "Subexponential lower bounds for f-ergodic Markov processes (Part I: Results)",
@@ -145,9 +187,12 @@
     "slides": [
       {
         "title": "LowerBoundsPresentationPart1.pdf",
-        "url": "https://drive.google.com/file/d/13cAnJk3u14NMJpgtJASTqLP3WDRRx8vQ/view"
+        "url": "slides-15-subexponential-lower-bounds-for-f-ergodic-markov-processes-part-i.pdf",
+        "source_url": "https://drive.google.com/file/d/13cAnJk3u14NMJpgtJASTqLP3WDRRx8vQ/view"
       }
-    ]
+    ],
+    "paper_id": "paper-12",
+    "part_label": "Part 1: Results"
   },
   {
     "title": "Subexponential lower bounds for f-ergodic Markov processes (Part II: Proofs)",
@@ -155,9 +200,12 @@
     "slides": [
       {
         "title": "LowerBoundsPresentationPart2.pdf",
-        "url": "https://drive.google.com/file/d/1meHuP8HNYZLPXxcE4JalbSGpg8BUzi91/view"
+        "url": "slides-16-subexponential-lower-bounds-for-f-ergodic-markov-processes-part-ii.pdf",
+        "source_url": "https://drive.google.com/file/d/1meHuP8HNYZLPXxcE4JalbSGpg8BUzi91/view"
       }
-    ]
+    ],
+    "paper_id": "paper-12",
+    "part_label": "Part 2: Proofs"
   },
   {
     "title": "Anomalous diffusive behaviour for Bessel-driven stochastic kinetics",
@@ -165,9 +213,12 @@
     "slides": [
       {
         "title": "Bessel_Kinetics.pdf",
-        "url": "https://drive.google.com/file/d/16JDACXSgf7D7u1DxE8b8rphieGVY-9N-/view"
+        "url": "slides-17-anomalous-diffusive-behaviour-for-bessel-driven-stochastic-kinetic.pdf",
+        "source_url": "https://drive.google.com/file/d/16JDACXSgf7D7u1DxE8b8rphieGVY-9N-/view"
       }
-    ]
+    ],
+    "paper_id": "paper-9",
+    "part_label": "Video"
   },
   {
     "title": "Fast exact simulation of the first passage event of a subordinator",
@@ -175,9 +226,12 @@
     "slides": [
       {
         "title": "First_passage_event_of_subordinator_slides.pdf",
-        "url": "https://drive.google.com/file/d/1NwoO5mzHiCIybIBv8XeWYdEWBhjSe9PZ/view"
+        "url": "slides-18-fast-exact-simulation-of-the-first-passage-event-of-a-subordinator.pdf",
+        "source_url": "https://drive.google.com/file/d/1NwoO5mzHiCIybIBv8XeWYdEWBhjSe9PZ/view"
       }
-    ]
+    ],
+    "paper_id": "paper-18",
+    "part_label": "Part 1"
   },
   {
     "title": "Fast exact simulation of the first passage event of a subordinator (Part II)",
@@ -185,9 +239,12 @@
     "slides": [
       {
         "title": "First_passage_event_of_subordinator_slides_Part2.pdf",
-        "url": "https://drive.google.com/file/d/1Yu_G4zpmTk6H3_D1G84nppm3t3WRBDXK/view"
+        "url": "slides-19-fast-exact-simulation-of-the-first-passage-event-of-a-subordinator.pdf",
+        "source_url": "https://drive.google.com/file/d/1Yu_G4zpmTk6H3_D1G84nppm3t3WRBDXK/view"
       }
-    ]
+    ],
+    "paper_id": "paper-18",
+    "part_label": "Part 2"
   },
   {
     "title": "Exact simulation of the first-passage event of a tempered stable subordinator",
@@ -195,9 +252,12 @@
     "slides": [
       {
         "title": "First_passage_slides_Part_1.pdf",
-        "url": "https://drive.google.com/file/d/1BdFDkylNRJduV2lG8T13PxDIM2fWoixc/view"
+        "url": "slides-20-exact-simulation-of-the-first-passage-event-of-a-tempered-stable-s.pdf",
+        "source_url": "https://drive.google.com/file/d/1BdFDkylNRJduV2lG8T13PxDIM2fWoixc/view"
       }
-    ]
+    ],
+    "paper_id": "paper-19",
+    "part_label": "Part 1"
   },
   {
     "title": "Monte Carlo algorithm based on exact simulation of the first-passage event",
@@ -205,9 +265,12 @@
     "slides": [
       {
         "title": "First_passage_slides_Part_2.pdf",
-        "url": "https://drive.google.com/file/d/1qWyZ5yM-B1u3A7eQysAGCCI6K1FOcdc8/view"
+        "url": "slides-21-monte-carlo-algorithm-based-on-exact-simulation-of-the-first-passa.pdf",
+        "source_url": "https://drive.google.com/file/d/1qWyZ5yM-B1u3A7eQysAGCCI6K1FOcdc8/view"
       }
-    ]
+    ],
+    "paper_id": "paper-19",
+    "part_label": "Part 2"
   },
   {
     "title": "Brownian Motion with Asymptotically Normal Reflection: from Transience to Stability",
@@ -215,9 +278,12 @@
     "slides": [
       {
         "title": "DiffusionsWithAsymptoticallyNormalReflectionPresentation_Part_I.pdf",
-        "url": "https://drive.google.com/file/d/1dxqzva3z8oeEPEJ6LFCwk9P8JFjyIJy-/view"
+        "url": "slides-22-brownian-motion-with-asymptotically-normal-reflection-from-transie.pdf",
+        "source_url": "https://drive.google.com/file/d/1dxqzva3z8oeEPEJ6LFCwk9P8JFjyIJy-/view"
       }
-    ]
+    ],
+    "paper_id": "paper-20",
+    "part_label": "Part 1"
   },
   {
     "title": "Brownian Motion with Asymptotically Normal Reflection: from Transience to Stability (Part II)",
@@ -225,9 +291,12 @@
     "slides": [
       {
         "title": "DiffusionsWithAsymptoticallyNormalReflectionPresentation_Part_II.pdf",
-        "url": "https://drive.google.com/file/d/1nhAC0yo9pAKA51gJlQSa-xDjkBSUYrrC/view"
+        "url": "slides-23-brownian-motion-with-asymptotically-normal-reflection-from-transie.pdf",
+        "source_url": "https://drive.google.com/file/d/1nhAC0yo9pAKA51gJlQSa-xDjkBSUYrrC/view"
       }
-    ]
+    ],
+    "paper_id": "paper-20",
+    "part_label": "Part 2: Proofs"
   },
   {
     "title": "Explosion and superdiffusivity of reflected Brownian motion",
@@ -235,9 +304,12 @@
     "slides": [
       {
         "title": "explosions.pdf",
-        "url": "https://drive.google.com/file/d/15TN6czHCu8SBa5pNFNlfAwFETubNNELV/view"
+        "url": "slides-24-explosion-and-superdiffusivity-of-reflected-brownian-motion.pdf",
+        "source_url": "https://drive.google.com/file/d/15TN6czHCu8SBa5pNFNlfAwFETubNNELV/view"
       }
-    ]
+    ],
+    "paper_id": "paper-26",
+    "part_label": "Part 1"
   },
   {
     "title": "Explosion and superdiffusivity of reflected Brownian motion (Part 2)",
@@ -245,9 +317,12 @@
     "slides": [
       {
         "title": "explosions_part2.pdf",
-        "url": "https://drive.google.com/file/d/1NFw9EZzHwsLL0k1kn-KMfwBPmc8vHi8f/view"
+        "url": "slides-25-explosion-and-superdiffusivity-of-reflected-brownian-motion-part-2.pdf",
+        "source_url": "https://drive.google.com/file/d/1NFw9EZzHwsLL0k1kn-KMfwBPmc8vHi8f/view"
       }
-    ]
+    ],
+    "paper_id": "paper-26",
+    "part_label": "Part 2: Proofs"
   },
   {
     "title": "Hölder continuity of the convex minorant of a Levy process",
@@ -255,9 +330,12 @@
     "slides": [
       {
         "title": "Hoelder_continuity_slides.pdf",
-        "url": "https://drive.google.com/file/d/1mDSrGASRCnrV-_v-hJZC_Ae4t8ZL8zir/view"
+        "url": "slides-26-holder-continuity-of-the-convex-minorant-of-a-levy-process.pdf",
+        "source_url": "https://drive.google.com/file/d/1mDSrGASRCnrV-_v-hJZC_Ae4t8ZL8zir/view"
       }
-    ]
+    ],
+    "paper_id": "paper-25",
+    "part_label": "Video"
   },
   {
     "title": "How smooth can a convex hull of a Levy path be?",
@@ -265,14 +343,19 @@
     "slides": [
       {
         "title": "LiltimedependentSubordinator_Presentation.pdf",
-        "url": "https://drive.google.com/file/d/134oOrv0V7GjoqZGZVVbrwKHk9rkdiw26/view"
+        "url": "slides-27-how-smooth-can-a-convex-hull-of-a-levy-path-be.pdf",
+        "source_url": "https://drive.google.com/file/d/134oOrv0V7GjoqZGZVVbrwKHk9rkdiw26/view"
       }
-    ]
+    ],
+    "paper_id": "paper-24",
+    "part_label": "Video"
   },
   {
     "title": "When is the convex hull of a Levy path smooth? Part 1",
     "url": "https://www.youtube.com/watch?v=qPxBqaq2AsQ",
-    "slides": []
+    "slides": [],
+    "paper_id": "paper-22",
+    "part_label": "Part 1"
   },
   {
     "title": "When is the convex hull of a Levy path smooth? Part 2",
@@ -280,9 +363,12 @@
     "slides": [
       {
         "title": "SmoothnessOfCMPresentation - split.pdf",
-        "url": "https://drive.google.com/file/d/1b6HLA3FAxBqCWfy6WwM54bJn9p2ElqHz/view"
+        "url": "slides-28-when-is-the-convex-hull-of-a-levy-path-smooth-part-2.pdf",
+        "source_url": "https://drive.google.com/file/d/1b6HLA3FAxBqCWfy6WwM54bJn9p2ElqHz/view"
       }
-    ]
+    ],
+    "paper_id": "paper-22",
+    "part_label": "Part 2"
   },
   {
     "title": "Convex minorant and fluctuation theory of Levy processes",
@@ -290,9 +376,12 @@
     "slides": [
       {
         "title": "Fluctuation_theory_for_Levy_processes___presentation (8).pdf",
-        "url": "https://drive.google.com/file/d/1wUnb8XxOZOKga9CzekbURbMr7OPsrjA3/view"
+        "url": "slides-29-convex-minorant-and-fluctuation-theory-of-levy-processes.pdf",
+        "source_url": "https://drive.google.com/file/d/1wUnb8XxOZOKga9CzekbURbMr7OPsrjA3/view"
       }
-    ]
+    ],
+    "paper_id": "paper-32",
+    "part_label": "Video"
   },
   {
     "title": "Asymptotic shape of the concave majorant of a Levy process",
@@ -300,9 +389,12 @@
     "slides": [
       {
         "title": "AsympLengthPresentation.pdf",
-        "url": "https://drive.google.com/file/d/14UhYAlrQEz-c1QBhZMwLaGJO4QNcGRs4/view"
+        "url": "slides-30-asymptotic-shape-of-the-concave-majorant-of-a-levy-process.pdf",
+        "source_url": "https://drive.google.com/file/d/14UhYAlrQEz-c1QBhZMwLaGJO4QNcGRs4/view"
       }
-    ]
+    ],
+    "paper_id": "paper-30",
+    "part_label": "Video"
   },
   {
     "title": "TSB Alg Video",
@@ -310,9 +402,12 @@
     "slides": [
       {
         "title": "SBT___presentation.pdf",
-        "url": "https://drive.google.com/file/d/1bCQmxKOegcWFLAWwM4noBmm5NYmKhnx7/view"
+        "url": "slides-31-tsb-alg-video.pdf",
+        "source_url": "https://drive.google.com/file/d/1bCQmxKOegcWFLAWwM4noBmm5NYmKhnx7/view"
       }
-    ]
+    ],
+    "paper_id": "paper-28",
+    "part_label": "Video"
   },
   {
     "title": "SB-Algorithm for the simulation of the extrema of Levy processes",
@@ -320,9 +415,12 @@
     "slides": [
       {
         "title": "LevySupSim_presentation.pdf",
-        "url": "https://drive.google.com/file/d/1tD_Rl86_otzcHILixij5N5vGlf-IAsZi/view"
+        "url": "slides-32-sb-algorithm-for-the-simulation-of-the-extrema-of-levy-processes.pdf",
+        "source_url": "https://drive.google.com/file/d/1tD_Rl86_otzcHILixij5N5vGlf-IAsZi/view"
       }
-    ]
+    ],
+    "paper_id": "paper-33",
+    "part_label": "Video"
   },
   {
     "title": "Stick-breaking Gaussian simulation: extrema of Levy processes",
@@ -330,8 +428,11 @@
     "slides": [
       {
         "title": "SBG_Talk.pdf",
-        "url": "https://drive.google.com/file/d/1hGhBJmqiF9J0h9yuO4d-zoI9McYs4nc-/view"
+        "url": "slides-33-stick-breaking-gaussian-simulation-extrema-of-levy-processes.pdf",
+        "source_url": "https://drive.google.com/file/d/1hGhBJmqiF9J0h9yuO4d-zoI9McYs4nc-/view"
       }
-    ]
+    ],
+    "paper_id": "paper-29",
+    "part_label": "Video"
   }
 ]

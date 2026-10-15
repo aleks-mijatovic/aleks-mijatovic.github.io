@@ -1,0 +1,259 @@
+{
+  "source_url": "https://sites.google.com/view/aleks-mijatovic/group",
+  "groups": [
+    {
+      "title": "Current PhD students",
+      "members": [
+        {
+          "name": "Juan Pablo Chávez Ochoa",
+          "profile_url": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/chavezochoa",
+          "metadata_html": "University of Warwick <br>Started Oct 2023 <br>Topic: Reflected Brownain motion in unbounded domains <br>Funding: Warwick Statistics departmental PhD award (full PhD scholarship)",
+          "metadata_text": "University of Warwick Started Oct 2023 Topic: Reflected Brownain motion in unbounded domains Funding: Warwick Statistics departmental PhD award (full PhD scholarship)",
+          "image": "person-juan-pablo-chavez-ochoa.jpg",
+          "image_source": "https://sites.google.com/sitesv-images-rt/AMxu72ug8D7leK3Pt1fR1ZC5Lm4NHvXiojcixB5dRyjFz49OCsAzoT614tbPW0oGl9eEAILBggoA34YQs_iwz1YRNlPmweJvS1OUK6MhNztHNhb748lX6xq-2jXM8in0NBZDpI8seU8GpU4RL31XS7_vyjqco9ZsbcrrCcoW7S1Yq5W-SQAEtr-YlmPvLShyahaEOTXmwJPlzyneknHamWcTNPMK1xk98vmE1eZdFzihZDc=w1280",
+          "image_filename": "person-juan-pablo-chavez-ochoa.jpg",
+          "alternative_image_source": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/chavezochoa/meprofile.jpg?maxWidth=232"
+        },
+        {
+          "name": "Vinayak Niraj",
+          "profile_url": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/niraj/",
+          "metadata_html": "University of Warwick <br>Started Oct 2024 <br>Topic: Sampling algorithms on bounded domains <br>Funding: Warwick Statistics departmental PhD award (full PhD scholarship)",
+          "metadata_text": "University of Warwick Started Oct 2024 Topic: Sampling algorithms on bounded domains Funding: Warwick Statistics departmental PhD award (full PhD scholarship)",
+          "image": "person-vinayak-niraj.jpg",
+          "image_source": "https://sites.google.com/sitesv-images-rt/AMxu72s_mb8tRjDNd508lPufg7nvKRxydRykPS-uVGOPRc4zasEWwZhRg85vdthpcVT98D7CEAs7OCSeXNVYrxmSjcr2858k9gbsY0CZ3Zri2JzxP-vsNo7KbPC3mYM81eStjo3XrVG8bFFGaLnaX3w1AxRZb0a7qxuqbhn6WN_19chPuA_yjnN4N_uaP1WCLoPh1kktdRKY_WGV-xGoFyAlr-jxxBVmzP40-5hjqRPV5Jk=w1280",
+          "image_filename": "person-vinayak-niraj.jpg",
+          "alternative_image_source": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/niraj/img-20241007-wa0027.jpg"
+        },
+        {
+          "name": "Haokai Xie",
+          "profile_url": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/xie/",
+          "metadata_html": "University of Warwick <br>Started Oct 2025 <br>Topic: Scaling limits and stability of branching processes<br>Funding: Warwick Statistics departmental PhD award (full PhD scholarship)",
+          "metadata_text": "University of Warwick Started Oct 2025 Topic: Scaling limits and stability of branching processesFunding: Warwick Statistics departmental PhD award (full PhD scholarship)",
+          "image": "person-haokai-xie.jpg",
+          "image_source": "https://sites.google.com/sitesv-images-rt/AMxu72v-RGWRxvakNvrwa9EW_JcDFgsUIcS-DvoHvpj08XNRNN4baaOqBE9hS2uCgJopelYkrnnTQs3gYWz5SA1rx92cMB6wDSHqQ3Jz4eESOWj5pUrMTIEAnoI06Zy9fYwNIN_6HojiEzV524AGaLLRw-HwQ5naTkLBCGt8a2awTqm6L7-PTTdsN1NOX3mjDY9IThflqza4wWZGvygFVBqKTxLRbr0HLJriJmwenYVRTgQ=w1280",
+          "image_filename": "person-haokai-xie.jpg",
+          "alternative_image_source": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/xie/pic-hx.jpg"
+        },
+        {
+          "name": "Yuanhe Zhang",
+          "profile_url": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang/",
+          "metadata_html": "University of Warwick <br>Started Oct 2024 <br>Topic: Formalisation in Lean of Probability theory and its applications <br>Co-supervised with Fanghui Liu and Thomas Berrett",
+          "metadata_text": "University of Warwick Started Oct 2024 Topic: Formalisation in Lean of Probability theory and its applications Co-supervised with Fanghui Liu and Thomas Berrett",
+          "image": "person-yuanhe-zhang.jpg",
+          "image_source": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang/_20240209020453.jpg",
+          "image_filename": "person-yuanhe-zhang.jpg",
+          "alternative_image_source": "https://warwick.ac.uk/fac/sci/statistics/staff/research_students/yuanhezhang/_20240209020453.jpg"
+        },
+        {
+          "name": "Francesco Virgili",
+          "profile_url": "https://www.mathphd.unito.it/do/studenti.pl/Show?_id=1101739#profilo",
+          "metadata_html": "University of Torino <br>Started Oct 2025 <br>Topic: Semi-Markov processes and reflected diffusion<br>Co-supervised with <a href=\"https://sites.google.com/site/btoaldo/home\">Bruno Toaldo</a>",
+          "metadata_text": "University of Torino Started Oct 2025 Topic: Semi-Markov processes and reflected diffusionCo-supervised with Bruno Toaldo",
+          "image": "person-francesco-virgili.png",
+          "image_source": "https://www.mathphd.unito.it/studenti/att/1101739.fotografia.png",
+          "image_filename": "person-francesco-virgili.png",
+          "alternative_image_source": null
+        }
+      ]
+    },
+    {
+      "title": "Former postdoctoral researchers",
+      "members": [
+        {
+          "name": "Matthew Buckland",
+          "profile_url": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/buckland/",
+          "metadata_html": "<p>Dr <a href=\"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/buckland/\">Matthew Buckland</a> (Department of Statistics, University of Warwick)<br>Topic: Stability of Hamiltonian Monte Carlo for heavy-tailed targets <br>Funding: EPSRC grant EP/W006227/1  (Sep 2025 to Aug 2026)</p>",
+          "metadata_text": "Dr Matthew Buckland (Department of Statistics, University of Warwick)Topic: Stability of Hamiltonian Monte Carlo for heavy-tailed targets Funding: EPSRC grant EP/W006227/1 (Sep 2025 to Aug 2026)",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Miha Brešar",
+          "profile_url": "https://sites.google.com/view/mihabresar",
+          "metadata_html": "<p>Dr <a href=\"https://sites.google.com/view/mihabresar\">Miha Brešar</a> (Department of Statistics, University of Warwick), awarded <a href=\"https://warwick.ac.uk/fac/sci/research/facultyprizes/\">SEM faculty Post-Doctoral prize 2025\t<br></a>Topic: Stability of Markov processes, reflected Brownian motion, sampling algorithms  <br>Funding: EPSRC grant EP/V009478/1  (Oct 2023 to Aug 2025) <br>Current position: Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen \t\t\t\t\t</p>",
+          "metadata_text": "Dr Miha Brešar (Department of Statistics, University of Warwick), awarded SEM faculty Post-Doctoral prize 2025 Topic: Stability of Markov processes, reflected Brownian motion, sampling algorithms Funding: EPSRC grant EP/V009478/1 (Oct 2023 to Aug 2025) Current position: Assistant Professor in the School of Data Science at The Chinese University of Hong Kong, Shenzhen",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Isao Sauzedde",
+          "profile_url": "https://perso.ens-lyon.fr/isao.sauzedde/",
+          "metadata_html": "<p>Dr <a href=\"https://perso.ens-lyon.fr/isao.sauzedde/\">Isao Sauzedde</a> (Department of Statistics, University of Warwick) \t<br>Topic: Reflected Brownian motion, mathematical physics <br>Funding: EPSRC grant EP/W006227/1  (Oct 2022 to Apr 2025) <br>Current position: Post-doctoral researcher at the ENS de Lyon</p>",
+          "metadata_text": "Dr Isao Sauzedde (Department of Statistics, University of Warwick) Topic: Reflected Brownian motion, mathematical physics Funding: EPSRC grant EP/W006227/1 (Oct 2022 to Apr 2025) Current position: Post-doctoral researcher at the ENS de Lyon",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Gerónimo Uribe Bravo",
+          "profile_url": "https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/uribebravo",
+          "metadata_html": "<p>Dr <a href=\"https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/uribebravo\">Gerónimo Uribe Bravo</a> (Department of Statistics, University of Warwick) \t<br>Topic: Scaling limits and branching processes with immigration<br>Funding: EPSRC grant EP/V009478/1  (Sep 2023 to Aug 2024)\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t    Current position: Investigador Titular B, Instituto de Matemáticas, Universidad Nacional Autónoma de México, Mexico City</p>",
+          "metadata_text": "Dr Gerónimo Uribe Bravo (Department of Statistics, University of Warwick) Topic: Scaling limits and branching processes with immigrationFunding: EPSRC grant EP/V009478/1 (Sep 2023 to Aug 2024) Current position: Investigador Titular B, Instituto de Matemáticas, Universidad Nacional Autónoma de México, Mexico City",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Jorge González Cázares",
+          "profile_url": "https://www.iimas.unam.mx/directorio/?idsis=34",
+          "metadata_html": "<p>Dr <a href=\"https://www.iimas.unam.mx/directorio/?idsis=34\">Jorge González Cázares</a> (Department of Statistics, University of Warwick) \t<br>Topic: Lévy processes<br>Funding: EPSRC grant EP/V009478/1  (Jan 2022 to Sep 2023) <br>Current position: Associate Professor at IIMAS, Universidad Nacional Autónoma de México, Mexico City</p>",
+          "metadata_text": "Dr Jorge González Cázares (Department of Statistics, University of Warwick) Topic: Lévy processesFunding: EPSRC grant EP/V009478/1 (Jan 2022 to Sep 2023) Current position: Associate Professor at IIMAS, Universidad Nacional Autónoma de México, Mexico City",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Ivana Valentić",
+          "profile_url": "https://web.math.pmf.unizg.hr/~ivalentic/",
+          "metadata_html": "<p>Dr <a href=\"https://web.math.pmf.unizg.hr/~ivalentic/\">Ivana Valentić</a> (Department of Statistics, University of Warwick) \t<br>Topic: Wright-Fisher diffusions in  arbitrary dimension<br>Funding: LMS Grace Chisholm Fellowship  (Aug 2021 to Jul 2022) <br>Current position: Associate Professor at IIMAS, Universidad Nacional Autónoma de México, Mexico City</p>",
+          "metadata_text": "Dr Ivana Valentić (Department of Statistics, University of Warwick) Topic: Wright-Fisher diffusions in arbitrary dimensionFunding: LMS Grace Chisholm Fellowship (Aug 2021 to Jul 2022) Current position: Associate Professor at IIMAS, Universidad Nacional Autónoma de México, Mexico City",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Mateusz Majka",
+          "profile_url": "https://sites.google.com/site/mateuszbmajka/",
+          "metadata_html": "<p>Dr <a href=\"https://sites.google.com/site/mateuszbmajka/\">Mateusz Majka</a> (Department of Statistics, University of Warwick) \t<br>Topic: Coupling and Control in Continuous Time<br>Funding: EPSRC grant EP/P003818/2  (Jun 2017 to Feb 2020) <br>Current position: Assistant Professor at the School of Mathematical and Computer Sciences of the Heriot-Watt University in Edinburgh</p>",
+          "metadata_text": "Dr Mateusz Majka (Department of Statistics, University of Warwick) Topic: Coupling and Control in Continuous TimeFunding: EPSRC grant EP/P003818/2 (Jun 2017 to Feb 2020) Current position: Assistant Professor at the School of Mathematical and Computer Sciences of the Heriot-Watt University in Edinburgh",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Vladislav Vysotskiy",
+          "profile_url": "https://profiles.sussex.ac.uk/p406081-vladislav-vysotskiy",
+          "metadata_html": "<p>Dr <a href=\"https://profiles.sussex.ac.uk/p406081-vladislav-vysotskiy\">Vladislav Vysotskiy</a> (Department of Mathematics, Imperial College London) <br>Topic: Stability of functionals of random walks<br>Funding: ERC Marie Curie International Incoming Fellowship (Jan 2015 to Dec 2016) <br>Current position: Reader in Probability, Department of Mathematics, University of Sussex</p>",
+          "metadata_text": "Dr Vladislav Vysotskiy (Department of Mathematics, Imperial College London) Topic: Stability of functionals of random walksFunding: ERC Marie Curie International Incoming Fellowship (Jan 2015 to Dec 2016) Current position: Reader in Probability, Department of Mathematics, University of Sussex",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        }
+      ]
+    },
+    {
+      "title": "Graduated PhD students",
+      "members": [
+        {
+          "name": "Ben Povar",
+          "profile_url": null,
+          "metadata_html": "<p>Ben Povar (Thesis: Critical branching processes with immigration: scaling limits of zeroes and meanders) <br>Graduated Sep 2025 (University of Warwick) <br>Topic: Critical branching processes with Immigration: Scaling limits of zeros and meanders <br>Current position: Quantitative developer at Bank of America Merrill Lynch</p>",
+          "metadata_text": "Ben Povar (Thesis: Critical branching processes with immigration: scaling limits of zeroes and meanders) Graduated Sep 2025 (University of Warwick) Topic: Critical branching processes with Immigration: Scaling limits of zeros and meanders Current position: Quantitative developer at Bank of America Merrill Lynch",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Romain Palfray",
+          "profile_url": null,
+          "metadata_html": "<p>Romain Palfray (Thesis: On the simulation of Lévy processes) <br>Graduated Jan 2025 (University of Warwick) <br>Topic: Simulation and Monte Carlo methods for hedging and pricing of derivatives <br>Current position: Senior Manager at Lloyds Banking Group</p>",
+          "metadata_text": "Romain Palfray (Thesis: On the simulation of Lévy processes) Graduated Jan 2025 (University of Warwick) Topic: Simulation and Monte Carlo methods for hedging and pricing of derivatives Current position: Senior Manager at Lloyds Banking Group",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Miha Brešar",
+          "profile_url": null,
+          "metadata_html": "<p>Miha Brešar (Thesis: Reflecting diffusions: from transience to stability) <br>Graduated Jan 2024 (University of Warwick), awarded <a href=\"https://warwick.ac.uk/fac/sci/statistics/postgrad/gradstudentprizes/\">G-Research PhD prize 2025</a> <br>Topic: Reflected Brownian motion <br>Current position: Postdoctoral Researcher, Department of Statistics, University of Warwick</p>",
+          "metadata_text": "Miha Brešar (Thesis: Reflecting diffusions: from transience to stability) Graduated Jan 2024 (University of Warwick), awarded G-Research PhD prize 2025 Topic: Reflected Brownian motion Current position: Postdoctoral Researcher, Department of Statistics, University of Warwick",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Feng Lin",
+          "profile_url": null,
+          "metadata_html": "<p>Feng Lin (Thesis: <a href=\"https://drive.google.com/file/d/1HG4sN7Ah6u-8KwNl7gJMPip8Y3h7MxgQ/view?usp=drive_link\">Simulation of the first-passage event of a subordinator and Monte Carlo methods for fractional partial differential equations</a>) <br>Graduated Nov 2023 (University of Warwick) <br>Topic: Exact simulation and Monte Carlo methods for fractional PDEs <br>Funding: China Scholarship Council, CSC-University of Warwick full PhD scholarship                                                                                                         Current position: Assistant Professor, College of Mathematics and Physics, Wenzhou University, China</p>",
+          "metadata_text": "Feng Lin (Thesis: Simulation of the first-passage event of a subordinator and Monte Carlo methods for fractional partial differential equations) Graduated Nov 2023 (University of Warwick) Topic: Exact simulation and Monte Carlo methods for fractional PDEs Funding: China Scholarship Council, CSC-University of Warwick full PhD scholarship Current position: Assistant Professor, College of Mathematics and Physics, Wenzhou University, China",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "David Kramer-Bang",
+          "profile_url": null,
+          "metadata_html": "<p>David Kramer-Bang (Thesis: <a href=\"https://drive.google.com/file/d/1ub8vQCSZUY85HiJy48CWOs_6L-NcJQ6S/view?usp=drive_link\">Convex hulls of Lévy processes in space time</a>) <br>Graduated Sep 2023 (University of Warwick), awarded <a href=\"https://warwick.ac.uk/fac/sci/statistics/postgrad/gradstudentprizes/\">John Copas Prize 2024</a> <br>Topic: Lévy processes <br>Current position: Postdoctoral Researcher, Department of Mathematics, Aarhus University</p>",
+          "metadata_text": "David Kramer-Bang (Thesis: Convex hulls of Lévy processes in space time) Graduated Sep 2023 (University of Warwick), awarded John Copas Prize 2024 Topic: Lévy processes Current position: Postdoctoral Researcher, Department of Mathematics, Aarhus University",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Jorge González Cázares",
+          "profile_url": null,
+          "metadata_html": "<p>Jorge González Cázares (Thesis: Convex minorants and the simulation of the extrema of Lévy processes) <br>Graduated Dec 2021 (University of Warwick &amp; The Alan Turing Institute), awarded <a href=\"https://warwick.ac.uk/fac/sci/statistics/postgrad/gradstudentprizes/\">Harrison Award 2022</a> <br>Topic: Simulation of Lévy processes <br>Funding: Conacyt scholarship (Mexican government) and Warwick Statistics departmental PhD award                                                                Current position: Associate Professor at IIMAS, Universidad Nacional Autónoma de México, Mexico City</p>",
+          "metadata_text": "Jorge González Cázares (Thesis: Convex minorants and the simulation of the extrema of Lévy processes) Graduated Dec 2021 (University of Warwick & The Alan Turing Institute), awarded Harrison Award 2022 Topic: Simulation of Lévy processes Funding: Conacyt scholarship (Mexican government) and Warwick Statistics departmental PhD award Current position: Associate Professor at IIMAS, Universidad Nacional Autónoma de México, Mexico City",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Veno Mramor",
+          "profile_url": null,
+          "metadata_html": "<p>Veno Mramor (Thesis: <a href=\"https://drive.google.com/file/d/11s6_f5cJk9UQJG6kTjf9oldSfF0eZpvP/view?usp=share_link\">Stochastic processes on curved spaces</a>)<br>Graduated Mar 2021 (University of Warwick)<br>Topic: Archimedes’ hat-box theorem, projections of spherical Brownian motion, skew-product decompositions and cubature formulae.<br>Funding: Warwick Statistics departmental PhD award (full scholarship)</p>",
+          "metadata_text": "Veno Mramor (Thesis: Stochastic processes on curved spaces)Graduated Mar 2021 (University of Warwick)Topic: Archimedes’ hat-box theorem, projections of spherical Brownian motion, skew-product decompositions and cubature formulae.Funding: Warwick Statistics departmental PhD award (full scholarship)",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Jure Vogrinc",
+          "profile_url": null,
+          "metadata_html": "<p>Jure Vogrinc (Thesis: Poisson equations and weak approximation for Metropolis-Hastings chains)<br>Graduated Nov 2017 (Department of Mathematics, Imperial College London)<br>Current position: AI Researcher at SymphonyAI Financial Services</p>",
+          "metadata_text": "Jure Vogrinc (Thesis: Poisson equations and weak approximation for Metropolis-Hastings chains)Graduated Nov 2017 (Department of Mathematics, Imperial College London)Current position: AI Researcher at SymphonyAI Financial Services",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Dejan Širaj",
+          "profile_url": null,
+          "metadata_html": "<p>Dejan Širaj  (Thesis: Coupling and the Policy Improvement Algorithm for controlled diffusion processes) <br>May 2015 Department of Statistics, University of Warwick (jointly with S. D. Jacka)<br>Current position: Actuary at Triglav Group, a leading insurance company in Slovenia</p>",
+          "metadata_text": "Dejan Širaj (Thesis: Coupling and the Policy Improvement Algorithm for controlled diffusion processes) May 2015 Department of Statistics, University of Warwick (jointly with S. D. Jacka)Current position: Actuary at Triglav Group, a leading insurance company in Slovenia",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Matija Vidmar",
+          "profile_url": null,
+          "metadata_html": "<p>Matija Vidmar (Thesis: <a href=\"https://drive.google.com/file/d/1MOK4orwJLbaKhAJJLet2IJ5sO6Rk6NvM/view?usp=share_link\">Approximations of Lévy and other processes with jumps</a>)<br>Graduated Oct 2014 Department of Statistics, University of Warwick (jointly with S. D. Jacka)<br>Current position: Associate Professor, Department of Mathematics, University of Ljubljana, Slovenia</p>",
+          "metadata_text": "Matija Vidmar (Thesis: Approximations of Lévy and other processes with jumps)Graduated Oct 2014 Department of Statistics, University of Warwick (jointly with S. D. Jacka)Current position: Associate Professor, Department of Mathematics, University of Ljubljana, Slovenia",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Antoine Jacquier",
+          "profile_url": null,
+          "metadata_html": "<p>Antoine Jacquier (Thesis: Asymptotics of the implied volatility surface)<br>Graduated Nov 2010 Department of Mathematics, Imperial College London<br>Current position: Professor in Mathematical Finance, Department of Mathematics, Imperial College London</p>",
+          "metadata_text": "Antoine Jacquier (Thesis: Asymptotics of the implied volatility surface)Graduated Nov 2010 Department of Mathematics, Imperial College LondonCurrent position: Professor in Mathematical Finance, Department of Mathematics, Imperial College London",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Theodoros Tsagaris",
+          "profile_url": null,
+          "metadata_html": "<p>Theodoros Tsagaris (Thesis: Adaptive regression methods with application to streaming financial data)<br>Graduated Sep 2010 Department of Mathematics, Imperial College London (jointly with N. Adams and G. Montana)<br>Current position: Chief Investment Officer at Bayforest Technologies</p>",
+          "metadata_text": "Theodoros Tsagaris (Thesis: Adaptive regression methods with application to streaming financial data)Graduated Sep 2010 Department of Mathematics, Imperial College London (jointly with N. Adams and G. Montana)Current position: Chief Investment Officer at Bayforest Technologies",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        },
+        {
+          "name": "Harry Lo",
+          "profile_url": null,
+          "metadata_html": "<p>Harry Lo (Thesis: Markov chains and the pricing of derivatives)<br>Graduated Sep 2009 Department of Mathematics, Imperial College London <br>Recent position: Head of G10 spot and eFX trading at United Overseas Bank Limited, Singapore</p>",
+          "metadata_text": "Harry Lo (Thesis: Markov chains and the pricing of derivatives)Graduated Sep 2009 Department of Mathematics, Imperial College London Recent position: Head of G10 spot and eFX trading at United Overseas Bank Limited, Singapore",
+          "image": null,
+          "image_source": null,
+          "image_filename": null
+        }
+      ]
+    }
+  ]
+}

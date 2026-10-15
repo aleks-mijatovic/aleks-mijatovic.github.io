@@ -5,11 +5,11 @@
   const sort = document.getElementById('sort');
   const list = document.getElementById('papers');
   const papers = Array.from(list.querySelectorAll('.paper'));
-  const buttons = Array.from(form.querySelectorAll('[data-topic]'));
+  const topicSelect = document.getElementById('topic');
   const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
   const records = papers.map((el, index) => ({el, index, year: Number(el.dataset.year), section: el.dataset.section,
-    topics: el.dataset.topics.split(' '), text: normalize(el.textContent), title: el.querySelector('h3').textContent,
-    topic: el.querySelector('.tag').textContent}));
+    topics: el.dataset.topics.split(' '), text: normalize(el.textContent + ' ' + el.dataset.topicNames), title: el.querySelector('h3').textContent,
+    topic: el.dataset.primaryTopic}));
   let topic = 'all';
   function restore() {
     const params = new URLSearchParams(location.search);
@@ -18,7 +18,9 @@
     if (!section.value) section.value = 'all';
     sort.value = params.get('sort') || 'newest';
     if (!sort.value) sort.value = 'newest';
-    topic = buttons.some(b => b.dataset.topic === params.get('topic')) ? params.get('topic') : 'all';
+    topicSelect.value = params.get('topic') || 'all';
+    if (!topicSelect.value) topicSelect.value = 'all';
+    topic = topicSelect.value;
     render(false);
   }
   function render(updateURL = true) {
@@ -44,7 +46,7 @@
       p.el.hidden = false;
       list.append(p.el);
     });
-    buttons.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.topic === topic)));
+    topicSelect.value = topic;
     document.getElementById('result-count').textContent = `${visible.length} of ${records.length} research entries`;
     document.getElementById('empty').hidden = visible.length > 0;
     if (updateURL && ['http:', 'https:'].includes(location.protocol)) {
@@ -60,7 +62,7 @@
   query.addEventListener('input', () => render());
   section.addEventListener('change', () => render());
   sort.addEventListener('change', () => render());
-  buttons.forEach(b => b.addEventListener('click', () => { topic = b.dataset.topic; render(); }));
+  topicSelect.addEventListener('change', () => { topic = topicSelect.value; render(); });
   form.addEventListener('reset', () => { query.value = ''; section.value = 'all'; sort.value = 'newest'; topic = 'all'; render(); });
   window.addEventListener('popstate', restore);
   restore();
