@@ -12,7 +12,7 @@ Open `index.html` directly in a browser. All pages, navigation, paper search and
 
 - Home: research interests, contact details, portrait and profile links.
 - Research: 97 entries — 9 preprints, 79 publications, 2 edited volumes, 2 book chapters, 1 conference proceeding and 4 manuscripts.
-- CV: the education, employment, teaching, talks, lecture courses and professional activities from the source site.
+- CV: a concise profile based on the supplied short CV, covering appointments, education, leadership, service and supervision; publications link to the Research page.
 - Group: five current PhD students with locally stored portraits, plus former postdoctoral researchers and graduated PhD students.
 - Videos: 34 videos grouped into 24 paper rows, with all 33 presentation PDFs stored in this repository.
 
@@ -24,7 +24,7 @@ The site has no runtime dependencies, analytics, external fonts, build service o
 
 - Change paper titles, authors, years, citations, links and topic assignments in `papers.json`.
 - Topic IDs and labels are defined in `topics.json`.
-- Update videos, their `paper_id` associations, and local slide filenames in `videos.json`. Original Google Drive addresses are retained as `source_url` provenance only.
+- Update video descriptions, short labels, `paper_id` associations, and local slide filenames in `videos.json`. Original Google Drive addresses are retained as `source_url` provenance only.
 - Edit the CV in `cv-content.html` and people, profile links and image filenames in `group.json`. `group-content.html` is the original migration snapshot; it is no longer used to build the page.
 - Home text and page structure are in `build.py`. Styling and filtering are in `style.css` and `research.js`.
 - After changing data, content or templates, run `python3 build.py` (Python 3.12 or later recommended) and commit the regenerated HTML too. No packages are required.
@@ -35,7 +35,7 @@ Content was retrieved on 15 October 2026 from the five corresponding Google Site
 
 The five current student portraits are stored locally: the first three from the original Group page, and Yuanhe Zhang and Francesco Virgili from their linked university profiles. The source page contains no alumni portraits.
 
-Research rows place authors, arXiv links, linked publication details and available paper videos together. Video parts are associated with papers using their titles, matching YouTube links and the title pages of the presentation PDFs.
+Research rows place authors, arXiv links, linked publication details and descriptive paper-video links together, followed by clickable topic areas. Video and presentation links have hover descriptions distilled from the original Google Sites notes. Alumni names are highlighted as individual headings. Video parts are associated with papers using their titles, matching YouTube links and the title pages of the presentation PDFs.
 
 Topic assignments were added during migration and should be reviewed by the author. `sourceText` in each paper record retains the original citation for reference. Publication years follow the source citations; preprints and manuscripts without a separate year use their arXiv identifier. Existing bibliographic statuses and historical CV details have not been independently updated. The source Group page lists different positions for Miha Brešar in its postdoc and graduate sections; both source entries have been retained for the author to review.
 

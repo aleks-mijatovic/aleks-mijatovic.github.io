@@ -10,7 +10,10 @@
       }
     ],
     "paper_id": "paper-2",
-    "part_label": "Part 1: Results"
+    "part_label": "Part 1: Results",
+    "short_label": "Results",
+    "description": "Vinayak Niraj introduces hypocoercivity and mixing-time bounds that grow polynomially with dimension for heavy-tailed targets.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Part II: Hypocoercivity of TBPS for heavy-tailed targets -- Ideas and Proofs",
@@ -23,7 +26,10 @@
       }
     ],
     "paper_id": "paper-2",
-    "part_label": "Part 2: Proofs"
+    "part_label": "Part 2: Ideas & proofs",
+    "short_label": "Ideas & proofs",
+    "description": "Vinayak explains hypocoercivity for underdamped Langevin dynamics, tempering, and the weighted Poincaré inequality for heavy-tailed targets.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Diffeomorphic Contraction Sampler: fast mixing for heavy-tailed distributions",
@@ -36,7 +42,10 @@
       }
     ],
     "paper_id": "paper-4",
-    "part_label": "Video"
+    "part_label": "DCS algorithm",
+    "short_label": "DCS algorithm",
+    "description": "Diffeomorphic Contraction Sampler: polynomial-in-dimension mixing-time bounds and uniform ergodicity for targets with polynomial tails, without moment restrictions.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Limit theorems for stochastic gradient descent with infinite variance",
@@ -49,7 +58,10 @@
       }
     ],
     "paper_id": "paper-11",
-    "part_label": "Video"
+    "part_label": "SGD limit theorems",
+    "short_label": "SGD limit theorems",
+    "description": "Limit theorems for stochastic gradient descent with infinite-variance noise, covering constant and decreasing learning rates and their Ornstein–Uhlenbeck-type limits.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "CLT for ergodic averages of Markov chains I: theory and ULA-type algorithms for heavy-tailed targets",
@@ -62,7 +74,10 @@
       }
     ],
     "paper_id": "paper-6",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Theory & ULA",
+    "short_label": "Theory & ULA",
+    "description": "Necessary conditions for ergodic central limit theorems, with applications to unadjusted Langevin algorithms with finite- and infinite-variance increments.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "CLT for ergodic averages of Markov chains II: unbiased MCMC algorithms for heavy-tailed targets",
@@ -75,7 +90,10 @@
       }
     ],
     "paper_id": "paper-6",
-    "part_label": "Part 2"
+    "part_label": "Part 2: MCMC applications",
+    "short_label": "MCMC applications",
+    "description": "Applications to random walk Metropolis, MALA, the stereographic projection sampler and the independence sampler for heavy-tailed targets.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Stability of storage processes with general release rates",
@@ -88,7 +106,10 @@
       }
     ],
     "paper_id": "paper-7",
-    "part_label": "Video"
+    "part_label": "Stability & tail bounds",
+    "short_label": "Stability & tail bounds",
+    "description": "Miha Brešar describes ergodicity and stationary tail-decay rates for storage models with constant, linear and power-type release rates.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Multivariate CLT for Levy processes: convergence rates without moment assumptions",
@@ -101,7 +122,10 @@
       }
     ],
     "paper_id": "paper-10",
-    "part_label": "Video"
+    "part_label": "Convergence rates",
+    "short_label": "Convergence rates",
+    "description": "A multivariate central limit theorem for Lévy processes: an integrability criterion for convex distance to a Gaussian, and why Berry–Esseen bounds deteriorate near two moments.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Critical branching processes with immigration: scaling limits of local extinction sets (Part 1)",
@@ -114,7 +138,10 @@
       }
     ],
     "paper_id": "paper-8",
-    "part_label": "Part 1: Results"
+    "part_label": "Part 1: Results",
+    "short_label": "Results",
+    "description": "Joint scaling limits of a critical branching process with immigration and its local time at zero, with offspring and immigration laws in stable domains of attraction.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Critical branching processes with immigration: scaling limits of local extinction sets (Part 2)",
@@ -127,7 +154,10 @@
       }
     ],
     "paper_id": "paper-8",
-    "part_label": "Part 2: Proofs"
+    "part_label": "Part 2: Proofs",
+    "short_label": "Proofs",
+    "description": "Proof of the joint scaling limit of the branching process and its local time at zero to a continuous-state branching process with immigration and its Markovian local time.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Central limit theorem for superdiffusive reflected Brownian motion",
@@ -140,7 +170,10 @@
       }
     ],
     "paper_id": "paper-13",
-    "part_label": "Video"
+    "part_label": "Gaussian fluctuations",
+    "short_label": "Gaussian fluctuations",
+    "description": "Gaussian fluctuations of superdiffusive reflected Brownian motion in generalised parabolic domains, including a joint limit for the bounded component and failure in rapidly narrowing domains.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Asymptotically optimal Wasserstein couplings for the small-time stable domain of attraction",
@@ -153,7 +186,10 @@
       }
     ],
     "paper_id": "paper-16",
-    "part_label": "Video"
+    "part_label": "Couplings & rates",
+    "short_label": "Couplings & rates",
+    "description": "Upper and lower convergence-rate bounds in the small-time stable domain of attraction, using two rate-optimal couplings of pure-jump Lévy processes.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Non-asymptotic bounds for denoising diffusions: Ornstein-Uhlenbeck is hard to beat",
@@ -166,7 +202,10 @@
       }
     ],
     "paper_id": "paper-15",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Setting & results",
+    "short_label": "Setting & results",
+    "description": "Miha Brešar introduces lower bounds for convergence of the forward process in denoising diffusion probabilistic models.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Non-asymptotic bounds for denoising diffusions: Ornstein-Uhlenbeck is hard to beat",
@@ -179,7 +218,10 @@
       }
     ],
     "paper_id": "paper-15",
-    "part_label": "Part 2"
+    "part_label": "Part 2: General results & proofs",
+    "short_label": "General results & proofs",
+    "description": "The general lower-bound result for forward processes in denoising diffusions, together with its proof.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Subexponential lower bounds for f-ergodic Markov processes (Part I: Results)",
@@ -192,7 +234,10 @@
       }
     ],
     "paper_id": "paper-12",
-    "part_label": "Part 1: Results"
+    "part_label": "Part 1: Results",
+    "short_label": "Results",
+    "description": "A criterion for lower bounds on convergence in f-variation of a continuous-time ergodic Markov process to its invariant measure.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Subexponential lower bounds for f-ergodic Markov processes (Part II: Proofs)",
@@ -205,7 +250,10 @@
       }
     ],
     "paper_id": "paper-12",
-    "part_label": "Part 2: Proofs"
+    "part_label": "Part 2: Proofs",
+    "short_label": "Proofs",
+    "description": "Proofs of the main results on subexponential lower bounds for f-ergodic Markov processes.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Anomalous diffusive behaviour for Bessel-driven stochastic kinetics",
@@ -218,7 +266,10 @@
       }
     ],
     "paper_id": "paper-9",
-    "part_label": "Video"
+    "part_label": "Model, results & proofs",
+    "short_label": "Model, results & proofs",
+    "description": "A Bessel-driven kinetic model with stochastic dimension exhibits superdiffusive growth. The first half covers the model and results; the second half discusses the proofs.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Fast exact simulation of the first passage event of a subordinator",
@@ -231,7 +282,10 @@
       }
     ],
     "paper_id": "paper-18",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Algorithm & complexity",
+    "short_label": "Algorithm & complexity",
+    "description": "An exact simulation algorithm for the first-passage event of a general subordinator, with complexity results.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Fast exact simulation of the first passage event of a subordinator (Part II)",
@@ -244,7 +298,10 @@
       }
     ],
     "paper_id": "paper-18",
-    "part_label": "Part 2"
+    "part_label": "Part 2: Proofs & numerics",
+    "short_label": "Proofs & numerics",
+    "description": "Ideas behind the complexity theorem for the algorithm’s expected running time, followed by a numerical example.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Exact simulation of the first-passage event of a tempered stable subordinator",
@@ -257,7 +314,10 @@
       }
     ],
     "paper_id": "paper-19",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Exact simulation",
+    "short_label": "Exact simulation",
+    "description": "An exact simulation algorithm for the first passage of a tempered stable subordinator across a non-increasing function.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Monte Carlo algorithm based on exact simulation of the first-passage event",
@@ -270,7 +330,10 @@
       }
     ],
     "paper_id": "paper-19",
-    "part_label": "Part 2"
+    "part_label": "Part 2: Monte Carlo applications",
+    "short_label": "Monte Carlo applications",
+    "description": "Jorge González Cázares explains Monte Carlo estimation of a fractional PDE solution using exact simulation of the first-passage event.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Brownian Motion with Asymptotically Normal Reflection: from Transience to Stability",
@@ -283,7 +346,10 @@
       }
     ],
     "paper_id": "paper-20",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Stability & rates",
+    "short_label": "Stability & rates",
+    "description": "Positive recurrence of normally reflected Brownian motion in unbounded generalised parabolic domains, with polynomial stationary-tail and convergence-rate bounds.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Brownian Motion with Asymptotically Normal Reflection: from Transience to Stability (Part II)",
@@ -296,7 +362,10 @@
       }
     ],
     "paper_id": "paper-20",
-    "part_label": "Part 2: Proofs"
+    "part_label": "Part 2: Proof ideas",
+    "short_label": "Proof ideas",
+    "description": "Ideas behind the proof of the transience and stability results for Brownian motion with asymptotically normal reflection.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Explosion and superdiffusivity of reflected Brownian motion",
@@ -309,7 +378,10 @@
       }
     ],
     "paper_id": "paper-26",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Results",
+    "short_label": "Results",
+    "description": "The behaviour of an obliquely reflecting Brownian particle in a generalised parabolic domain: explosion and superdiffusivity.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Explosion and superdiffusivity of reflected Brownian motion (Part 2)",
@@ -322,7 +394,10 @@
       }
     ],
     "paper_id": "paper-26",
-    "part_label": "Part 2: Proofs"
+    "part_label": "Part 2: Proofs",
+    "short_label": "Proofs",
+    "description": "Further analysis and proofs for explosion and superdiffusivity of reflected Brownian motion in generalised parabolic domains.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Hölder continuity of the convex minorant of a Levy process",
@@ -335,7 +410,10 @@
       }
     ],
     "paper_id": "paper-25",
-    "part_label": "Video"
+    "part_label": "Hölder regularity",
+    "short_label": "Hölder regularity",
+    "description": "David Kramer-Bang describes a characterisation of the Hölder continuity of convex minorants, covering all Hölder exponents and nearly all Lévy processes.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "How smooth can a convex hull of a Levy path be?",
@@ -348,14 +426,20 @@
       }
     ],
     "paper_id": "paper-24",
-    "part_label": "Video"
+    "part_label": "Boundary growth rates",
+    "short_label": "Boundary growth rates",
+    "description": "Growth rates of the derivative of the boundary of the convex hull of a Lévy path.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "When is the convex hull of a Levy path smooth? Part 1",
     "url": "https://www.youtube.com/watch?v=qPxBqaq2AsQ",
     "slides": [],
     "paper_id": "paper-22",
-    "part_label": "Part 1"
+    "part_label": "Part 1: Smoothness criteria",
+    "short_label": "Smoothness criteria",
+    "description": "Jorge González Cázares introduces results characterising the smoothness of the convex hull of a Lévy path.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "When is the convex hull of a Levy path smooth? Part 2",
@@ -368,7 +452,10 @@
       }
     ],
     "paper_id": "paper-22",
-    "part_label": "Part 2"
+    "part_label": "Part 2: Further results",
+    "short_label": "Further results",
+    "description": "The second part of Jorge’s presentation on the characterisation of smoothness of the convex hull of a Lévy path. The linked slides cover both parts.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Convex minorant and fluctuation theory of Levy processes",
@@ -381,7 +468,10 @@
       }
     ],
     "paper_id": "paper-32",
-    "part_label": "Video"
+    "part_label": "Fluctuation theory & SBRT",
+    "short_label": "Fluctuation theory & SBRT",
+    "description": "The first half derives fluctuation theory using convex minorants; the second proves the stick-breaking representation theorem, stated at 8:38.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Asymptotic shape of the concave majorant of a Levy process",
@@ -394,7 +484,10 @@
       }
     ],
     "paper_id": "paper-30",
-    "part_label": "Video"
+    "part_label": "Results",
+    "short_label": "Results",
+    "description": "David Kramer-Bang presents the results on the asymptotic shape of the concave majorant of a Lévy process.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "TSB Alg Video",
@@ -407,7 +500,10 @@
       }
     ],
     "paper_id": "paper-28",
-    "part_label": "Video"
+    "part_label": "Tempered stick-breaking",
+    "short_label": "Tempered stick-breaking",
+    "description": "Jorge González Cázares describes geometric convergence for simulation of tempered stable processes, including CGMY, with barrier-option applications and Monte Carlo and multilevel Monte Carlo estimators.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "SB-Algorithm for the simulation of the extrema of Levy processes",
@@ -420,7 +516,10 @@
       }
     ],
     "paper_id": "paper-33",
-    "part_label": "Video"
+    "part_label": "Stick-breaking algorithm",
+    "short_label": "Stick-breaking algorithm",
+    "description": "The stick-breaking algorithm simulates Lévy extrema with geometrically small bias, requiring only the ability to sample increments of the Lévy process.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   },
   {
     "title": "Stick-breaking Gaussian simulation: extrema of Levy processes",
@@ -433,6 +532,9 @@
       }
     ],
     "paper_id": "paper-29",
-    "part_label": "Video"
+    "part_label": "Gaussian approximation",
+    "short_label": "Gaussian approximation",
+    "description": "Stick-breaking with a Gaussian approximation when Lévy increments cannot be sampled, including locally Lipschitz and discontinuous payoffs and comparison with other methods.",
+    "description_source": "https://sites.google.com/view/aleks-mijatovic/videos"
   }
 ]
