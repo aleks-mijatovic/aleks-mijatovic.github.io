@@ -1,6 +1,6 @@
 # Aleksandar Mijatović — academic website
 
-A compact, dark static academic website migrated from [Google Sites](https://sites.google.com/view/aleks-mijatovic/home), with a layout inspired by [Martin Hairer's website](https://www.hairer.org/index.html).
+A compact, dark static academic website migrated from [Google Sites](https://sites.google.com/view/aleks-mijatovic/home).
 
 **Private draft. Keep this repository private and GitHub Pages disabled until publication is explicitly requested.** A private repository does not by itself make a GitHub Pages website private. GitHub limits private Pages hosting to eligible Enterprise organisation project sites; see [GitHub's access-control documentation](https://docs.github.com/en/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site).
 
