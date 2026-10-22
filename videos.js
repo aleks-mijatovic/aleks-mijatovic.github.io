@@ -12,7 +12,7 @@
         !row.dataset.topics.split(' ').includes(topic.value);
       if (!row.hidden) visible++;
     });
-    count.textContent = `${visible} of ${rows.length} papers`;
+    count.textContent = `${visible} of ${rows.length} video presentations`;
     empty.hidden = visible > 0;
 
     if (updateURL && ['http:', 'https:'].includes(location.protocol)) {
