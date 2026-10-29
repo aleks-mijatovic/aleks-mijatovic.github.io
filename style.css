@@ -20,26 +20,29 @@
 @media screen and (prefers-color-scheme: light) {
   :root {
     color-scheme: light;
-    --ink: #202b24;
-    --muted: #536259;
-    --paper: #fbfcf9;
-    --line: #ccd7ce;
-    --accent: #276547;
-    --tint: #eaf0e9;
-    --panel: #f1f5ef;
+    --ink: #16231c;
+    --muted: #3e5045;
+    --paper: #ffffff;
+    --line: #a8b9ad;
+    --accent: #185936;
+    --tint: #dce8df;
+    --panel: #e8efe9;
   }
 
   h1, h2, h3, .brand { color: var(--ink); }
-  a:hover { color: #174c32; }
-  .site-header { background: #edf2ec; }
-  .site-header nav a { color: #4b5c50; }
+  a:hover { color: #103d25; }
+  .site-header { background: #173a2b; }
+  .site-header .brand { color: #ffffff; }
+  .site-header .brand span { color: #c7dbce; }
+  .site-header nav a { color: #e1eee5; }
   .site-header nav a:hover,
-  .site-header nav a[aria-current] { color: #1c3b28; }
-  input, select { border-color: #7a8d7e; background: #fff; }
+  .site-header nav a[aria-current] { color: #ffffff; background: #2b503d; }
+  .site-header nav a[aria-current] { box-shadow: inset 0 -1px #b5d9c1; }
+  input, select { border-color: #607b68; background: #fff; }
   a:focus-visible, button:focus-visible,
   input:focus-visible, select:focus-visible { outline-color: #805b13; }
   .paper, .alumnus { border-bottom-color: var(--line); }
-  .citation .authors { color: #37493d; }
-  .video-table thead th { border-bottom-color: #91a494; }
-  .paper-topics a { color: #476750; }
+  .citation .authors { color: #263c2e; }
+  .video-table thead th { border-bottom-color: #738e7c; }
+  .paper-topics a { color: #315a3f; }
 }
