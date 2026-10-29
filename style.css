@@ -15,3 +15,31 @@
 .cv-intro{max-width:970px;font-size:.88rem;color:var(--muted);margin:0 0 23px}.cv-grid{display:grid;grid-template-columns:1fr 1fr;gap:34px}.cv-section h2{font-size:1.24rem;border-bottom:1px solid var(--line);padding-bottom:9px;margin:0 0 14px}.cv-section+.cv-section{margin-top:24px}.cv-timeline{display:grid;grid-template-columns:100px minmax(0,1fr);gap:13px 14px;margin:0}.cv-timeline dt{font-size:.74rem;color:var(--muted);font-variant-numeric:tabular-nums;padding-top:2px}.cv-timeline dd{margin:0;font-size:.8rem}.cv-timeline dd strong{font-weight:600;color:var(--ink)}.cv-timeline dd span{display:block;font-size:.77rem;color:var(--muted);margin-top:3px}.cv-service{list-style:none;padding:0;margin:0;font-size:.8rem;color:var(--muted)}.cv-service li{margin-bottom:11px}.cv-service strong{color:var(--ink);font-weight:600}.cv-supervision{margin-top:24px}.cv-supervision p{font-size:.83rem;color:var(--muted);margin:0}
 @media(max-width:760px){.cv-grid{grid-template-columns:1fr;gap:25px}.video-table thead th:first-child,.video-table tbody th{width:42%}.video-table td{width:29%}}
 @media(max-width:480px){.cv-timeline{grid-template-columns:84px minmax(0,1fr);gap:13px 10px}.video-table thead th:first-child,.video-table tbody th{width:40%}.video-table td{width:30%}}
+
+/* Follow the visitor's browser or operating-system colour preference. */
+@media screen and (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+    --ink: #202b24;
+    --muted: #536259;
+    --paper: #fbfcf9;
+    --line: #ccd7ce;
+    --accent: #276547;
+    --tint: #eaf0e9;
+    --panel: #f1f5ef;
+  }
+
+  h1, h2, h3, .brand { color: var(--ink); }
+  a:hover { color: #174c32; }
+  .site-header { background: #edf2ec; }
+  .site-header nav a { color: #4b5c50; }
+  .site-header nav a:hover,
+  .site-header nav a[aria-current] { color: #1c3b28; }
+  input, select { border-color: #7a8d7e; background: #fff; }
+  a:focus-visible, button:focus-visible,
+  input:focus-visible, select:focus-visible { outline-color: #805b13; }
+  .paper, .alumnus { border-bottom-color: var(--line); }
+  .citation .authors { color: #37493d; }
+  .video-table thead th { border-bottom-color: #91a494; }
+  .paper-topics a { color: #476750; }
+}
